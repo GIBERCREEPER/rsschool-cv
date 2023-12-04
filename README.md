@@ -1,1 +1,1 @@
-https://gibercreeper.github.io/rsschool-cv/cv
+https://GIBERCREEPER.github.io/rsschool-cv/
